@@ -1,7 +1,7 @@
 # Healthcare Analytics SQL & Tableau Project
 
 ## Project Overview
-This project analyzes healthcare operational performance across hospitals and boroughs using PostgreSQL and Tableau.
+This project analyzes synthetic healthcare operational performance across hospitals and boroughs using PostgreSQL and Tableau.
 
 ## Tools Used
 - PostgreSQL
